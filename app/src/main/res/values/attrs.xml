@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ValidationCode">
+        <attr name="CodeCount" format="integer"/>
+        <attr name="PointNumber" format="integer"/>
+        <attr name="LineNumber" format="integer"/>
+        <attr name="CodeTextSize" format="dimension"/>
+        <attr name="BackGround" format="color"/>
+    </declare-styleable>
+</resources>
